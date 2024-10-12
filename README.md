@@ -23,6 +23,7 @@ I'll be breaking down each concept when I use them in the context of any explana
 
 ![Presentation1_page-0009.jpg](https://github.com/user-attachments/assets/e6e7e9e2-4cb0-4a62-8c90-53f5e88ce84e)
 <br>
+<br>
 
 ## References 
 Haverbeke, M. (2024). <i>Eloquent JavaScript, 4th Ed.: A Modern Introduction to Programming.</i> No Starch Press.
