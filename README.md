@@ -1,4 +1,4 @@
-<i>  article is an original work and a result of thorough research and analysis by me to provide unique insights on recursive functions and does not contain AI-generated content. </i>
+<i> This article is an original work and a result of thorough research and analysis by me to provide unique insights on recursive functions and does not contain AI-generated content. </i>
 
 <br>
 
