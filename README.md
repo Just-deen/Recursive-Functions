@@ -1,3 +1,9 @@
+## Illustration 
+
+![Presentation1_page-0009.jpg](https://github.com/user-attachments/assets/e6e7e9e2-4cb0-4a62-8c90-53f5e88ce84e)
+<br>
+<br>
+
 <i> This article is an original work and a result of thorough research and analysis by me to provide unique insights on recursive functions and does not contain AI-generated content. </i>
 
 <br>
@@ -17,12 +23,6 @@ If you're familiar will the following concepts, this article should easily under
 If you're completely new to the concepts listed above then that's okay. 
 I'll be breaking down each concept when I use them in the context of any explanation. 
 
-<br>
-
-## Illustration 
-
-![Presentation1_page-0009.jpg](https://github.com/user-attachments/assets/e6e7e9e2-4cb0-4a62-8c90-53f5e88ce84e)
-<br>
 <br>
 
 ## References 
