@@ -26,4 +26,4 @@ I'll be breaking down each concept when I use them in the context of any explana
 <br>
 
 ## References 
-Haverbeke, M. (2024). <i>Eloquent JavaScript, 4th Ed.: A Modern Introduction To Programming.</i> No Starch Press.
+Haverbeke, M. (2024). <i>Eloquent JavaScript, 4th Ed.: A Modern Introduction to Programming.</i> No Starch Press.
